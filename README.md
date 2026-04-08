@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Nikita
 
-<!--
-**nikitashinde1705/nikitashinde1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Who I Am
+MERN Stack Developer (Fresher) passionate about building scalable web applications.
 
-Here are some ideas to get you started:
+## 🚀 Currently Working On
+- Full-stack projects using MERN  
+- Improving React & DSA  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+React | Node.js | Express | MongoDB | JavaScript | Tailwind CSS | Bootstrap
+
+## 📫 Reach Me
+Email: nikitashinde1705@gmail.com  
+LinkedIn: [https://www.linkedin.com/in/nikita-shinde-9b099a225/]
